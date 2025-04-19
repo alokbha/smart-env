@@ -1,0 +1,10 @@
+{
+  "name": "smart-env",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Smart dotenv loader with validation, types, defaults, and error handling.",
+  "keywords": ["dotenv", "env", "validation", "config", "typescript", "cli"],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": "https://github.com/alokbha/smart-env"
+}
