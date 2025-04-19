@@ -1,5 +1,5 @@
 {
-  "name": "smart-env",
+  "name": "@alokbhade/smart-env",
   "version": "1.0.0",
   "main": "index.js",
   "description": "Smart dotenv loader with validation, types, defaults, and error handling.",

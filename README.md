@@ -20,4 +20,4 @@ No more crashes from missing `API_KEY`s or wrong types in `PORT`!
 ## 📦 Installation
 
 ```bash
-npm install smart-env
+npm install @alokbhade/smart-env
